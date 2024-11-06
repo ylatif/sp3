@@ -77,8 +77,8 @@
     },
     {
         "type": "default",
-        "name_template": "esa.orb.lageos1.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v70.sp3",
-        "url_template": "http://navigation-office.esa.int/products/slr-products/esa.orb.lageos1.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v70.sp3.gz",
+        "name_template": "esa.orb.lageos1.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v80.sp3",
+        "url_template": "http://navigation-office.esa.int/products/slr-products/esa.orb.lageos1.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v80.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
         "duration": 604800.0,
@@ -86,7 +86,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "asi.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "asi.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/lageos1/{year_2_digits}{month_2_digits}{day_2_digits}/asi.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -95,7 +95,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "esa.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "esa.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/lageos1/{year_2_digits}{month_2_digits}{day_2_digits}/esa.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -104,7 +104,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "gfz.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "gfz.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/lageos1/{year_2_digits}{month_2_digits}{day_2_digits}/gfz.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -113,7 +113,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "jcet.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "jcet.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/lageos1/{year_2_digits}{month_2_digits}{day_2_digits}/jcet.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -122,7 +122,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "nsgf.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "nsgf.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/lageos1/{year_2_digits}{month_2_digits}{day_2_digits}/nsgf.orb.lageos1.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -131,8 +131,8 @@
     },
     {
         "type": "default",
-        "name_template": "esa.orb.lageos2.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v70.sp3",
-        "url_template": "http://navigation-office.esa.int/products/slr-products/esa.orb.lageos2.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v70.sp3.gz",
+        "name_template": "esa.orb.lageos2.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v80.sp3",
+        "url_template": "http://navigation-office.esa.int/products/slr-products/esa.orb.lageos2.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v80.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
         "duration": 604800.0,
@@ -140,7 +140,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "asi.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "asi.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/lageos2/{year_2_digits}{month_2_digits}{day_2_digits}/asi.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -149,7 +149,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "esa.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "esa.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/lageos2/{year_2_digits}{month_2_digits}{day_2_digits}/esa.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -158,7 +158,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "gfz.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "gfz.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/lageos2/{year_2_digits}{month_2_digits}{day_2_digits}/gfz.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -167,7 +167,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "jcet.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "jcet.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/lageos2/{year_2_digits}{month_2_digits}{day_2_digits}/jcet.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -176,7 +176,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "nsgf.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "nsgf.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/lageos2/{year_2_digits}{month_2_digits}{day_2_digits}/nsgf.orb.lageos2.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -185,8 +185,8 @@
     },
     {
         "type": "default",
-        "name_template": "esa.orb.etalon1.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v70.sp3",
-        "url_template": "http://navigation-office.esa.int/products/slr-products/esa.orb.etalon1.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v70.sp3.gz",
+        "name_template": "esa.orb.etalon1.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v80.sp3",
+        "url_template": "http://navigation-office.esa.int/products/slr-products/esa.orb.etalon1.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v80.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
         "duration": 604800.0,
@@ -194,7 +194,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "asi.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "asi.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/etalon1/{year_2_digits}{month_2_digits}{day_2_digits}/asi.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -203,7 +203,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "esa.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "esa.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/etalon1/{year_2_digits}{month_2_digits}{day_2_digits}/esa.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -212,7 +212,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "gfz.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "gfz.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/etalon1/{year_2_digits}{month_2_digits}{day_2_digits}/gfz.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -221,7 +221,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "jcet.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "jcet.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/etalon1/{year_2_digits}{month_2_digits}{day_2_digits}/jcet.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -230,7 +230,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "nsgf.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "nsgf.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/etalon1/{year_2_digits}{month_2_digits}{day_2_digits}/nsgf.orb.etalon1.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -239,8 +239,8 @@
     },
     {
         "type": "default",
-        "name_template": "esa.orb.etalon2.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v70.sp3",
-        "url_template": "http://navigation-office.esa.int/products/slr-products/esa.orb.etalon2.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v70.sp3.gz",
+        "name_template": "esa.orb.etalon2.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v80.sp3",
+        "url_template": "http://navigation-office.esa.int/products/slr-products/esa.orb.etalon2.{next_saturay_year_2_digits}{next_saturay_month_2_digits}{next_saturay_day_2_digits}.v80.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
         "duration": 604800.0,
@@ -248,7 +248,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "asi.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "asi.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/etalon2/{year_2_digits}{month_2_digits}{day_2_digits}/asi.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -257,7 +257,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "esa.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "esa.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/etalon2/{year_2_digits}{month_2_digits}{day_2_digits}/esa.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -266,7 +266,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "gfz.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "gfz.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/etalon2/{year_2_digits}{month_2_digits}{day_2_digits}/gfz.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -275,7 +275,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "jcet.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "jcet.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/etalon2/{year_2_digits}{month_2_digits}{day_2_digits}/jcet.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
@@ -284,7 +284,7 @@
     },
     {
         "type": "cddis",
-        "name_template": "nsgf.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v70.sp3",
+        "name_template": "nsgf.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v80.sp3",
         "url_template": "https://cddis.nasa.gov/archive/slr/products/orbits/etalon2/{year_2_digits}{month_2_digits}{day_2_digits}/nsgf.orb.etalon2.{year_2_digits}{month_2_digits}{day_2_digits}.v00.sp3.gz",
         "compression": "gzip",
         "time_system": "UTC",
